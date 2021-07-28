@@ -1,7 +1,6 @@
 # donal-readme
 
 # My values & vision
-#Learning/Leadership
 
 ## Values 
 * Achieve adventure
