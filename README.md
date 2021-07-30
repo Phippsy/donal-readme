@@ -56,4 +56,4 @@ This enables Cytiva to attract, convert and retain customers in scalable and def
 *We focus on*
 * Hypotheses which can have the hugest impact on customer experience
 * Relentless understanding of customer mindsets and problems to solve
-* Constructive challenging of stakeholder dogma in service of the best possible use of Cytiva’s resources
+* Constructive challenging of stakeholder dogma, to make sure we use Cytiva’s resources effectively
