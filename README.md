@@ -43,14 +43,14 @@ Bring yourself to what we do - your ideas, your experience; question, celebrate 
 	* Apply what you learn
 
 ## Why do I care about any of this?
-We only get 1 life - let's show up while we can!
-People can be amazing, I'd like to pay attention and help them to thrive.
-Virtuous circles & emergence are a force of nature.
+* We only get 1 life - let's show up while we can!
+* People can be amazing, I'd like to pay attention and help them to thrive.
+* Virtuous circles & emergence are a force of nature.
 
 ## What is our team’s purpose?
-We are vital, rare ambassadors who bring together technology and business understanding to transmute our customers' experiences. Through creative energy, initiative and collaboration, we help our business partners to bring their ideas to life.
+We bring together technology and business understanding to transmute our customers' experiences. Through creative energy, initiative and collaboration, we help our business partners to bring their ideas to life.
 
-By doing this, we contribute to a digital customer experience which consistently delights through speed, simplicity and convenience.
+We contribute to a digital customer experience which consistently delights through speed, simplicity and convenience.
 This enables Cytiva to attract, convert and retain customers in scalable and defendable ways by applying technology, intelligence and business process.
 
 *We focus on*
