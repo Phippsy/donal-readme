@@ -3,10 +3,13 @@
 # My values & vision
 
 ## Values 
+
+What are the themes and ideals I am working towards?
+
 * Achieve adventure
 	* Dare
 	* Empower
-	* Create - solve
+	* Create & solve
 	* Improve
 * Give it everything
 	* Take pride, own your path
@@ -14,41 +17,43 @@
 	* Respect others and make room for their ideas
 	* Use your initiative
 * [Eat your orange](https://www.thenewleam.com/2018/08/eating-an-orange-thich-nhat-hanh/)
-	* SIMPLIFY and REDUCE
+	* SIMPLIFY and REDUCE where you can
 	* Be playful
-	* The Tom Sawyer effect
+	* Apply the Tom Sawyer effect
 	* Find beauty & gratitude
 	* Make magic
 	* Make space to breathe
 
-## My Vision
+## My Personal Vision
+
+If we work together in a team, these are the behaviours and objectives which I care about most.
+
 * Flourish
 	* Be an intrapreneur
-	* Mine for emergence
-	* Use your initiative
-* Leave your mark
-Bring yourself to what we do - your ideas, your experience. Make things
+	* Relentlessly hunt for emergent value
+	* Use your initiative - ask for forgiveness, not permission
+* Leave your mark:
+Bring yourself to what we do - your ideas, your experience; question, celebrate and improve with your team-mates. Make things
 	* Faster
 	* Better
-	* Adding more value
+	* More valuable
 * Help it scale
-	* Learn & share
+	* Learn & share with those around you
 	* Build the process
 	* Apply what you learn
 
-#### The future destination
-WHEN you commit to this culture, YOU WILL never be bored at work again! Every day will be an adventure and you will choose the destination.
-You get to bring ideas to life - our customers’ ideas, our ideas to improve things. Ideas are cheap - you are in the arena, making them happen.
-
 ## Why do I care about any of this?
-We only get 1 life
-People can be amazing
-Virtuous circles are a force of nature
+We only get 1 life - let's show up while we can!
+People can be amazing, I'd like to pay attention and help them to thrive.
+Virtuous circles & emergence are a force of nature.
 
 ## What is our team’s purpose?
-We are vital, rare ambassadors who unite technology and business sense to create alchemy in customer experiences. Through creative energy, persistence and collaboration, we help our business to bring their ideas to life, make Cytiva a better place to buy from.
+We are vital, rare ambassadors who bring together technology and business understanding to transmute our customers' experiences. Through creative energy, initiative and collaboration, we help our business partners to bring their ideas to life.
+
+By doing this, we contribute to a digital customer experience which consistently delights through speed, simplicity and convenience.
+This enables Cytiva to attract, convert and retain customers in scalable and defendable ways by applying technology, intelligence and business process.
 
 *We focus on*
 * Hypotheses which can have the hugest impact on customer experience
 * Relentless understanding of customer mindsets and problems to solve
-* Constructive challenging of stakeholder dogma in service of the best possible use of Cytiva’s considerable resources
+* Constructive challenging of stakeholder dogma in service of the best possible use of Cytiva’s resources
