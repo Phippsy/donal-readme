@@ -12,7 +12,7 @@ What are the themes and ideals I am working towards?
 	* Create & solve
 	* Improve
 * Give it everything
-	* Take pride, own your path
+	* Take pride in your work and own your journey
 	* Celebrate & learn from others
 	* Respect others and make room for their ideas
 	* Use your initiative
