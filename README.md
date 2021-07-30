@@ -15,6 +15,7 @@ What are the themes and ideals I am working towards?
 	* Take pride in your work and own your journey
 	* Celebrate & learn from others
 	* Respect others and make room for their ideas
+	* Be NICE! It's only work for heaven's sake, be sincere but not serious
 	* Use your initiative
 * [Eat your orange](https://www.thenewleam.com/2018/08/eating-an-orange-thich-nhat-hanh/)
 	* SIMPLIFY and REDUCE where you can
